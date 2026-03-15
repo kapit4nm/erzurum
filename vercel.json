@@ -1,11 +1,5 @@
 {
   "version": 2,
-  "functions": {
-    "api/buses.js": {
-      "runtime": "edge",
-      "maxDuration": 10
-    }
-  },
   "headers": [
     {
       "source": "/(.*)",
