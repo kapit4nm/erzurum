@@ -11,8 +11,6 @@
 //   8. Güvenlik header'ları
 // ============================================================
 
-export const config = { runtime: 'edge' };
-
 // ── Sabitler ─────────────────────────────────────────────────
 const KENTKART_BASE  = 'https://service.kentkart.com/rl1';
 const REGION         = '038';
